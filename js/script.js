@@ -22,6 +22,7 @@ let formerMaca = document.getElementById('formerMaca'),
 window.scrollTo(scroll,0);
 
 
+
  // 	two.onclick = function(event){
 
 	// 	cruise.style.left=1455 + "px";
